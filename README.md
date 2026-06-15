@@ -3,6 +3,8 @@
 <!--
 **ateesdalejr/ateesdalejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![There was supposed to be a view counter here... Oh well.](https://www.counter12.com/img-3749cZW87Z5d1zAY-1.gif)
